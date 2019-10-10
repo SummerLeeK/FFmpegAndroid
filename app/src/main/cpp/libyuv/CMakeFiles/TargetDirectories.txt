@@ -1,0 +1,8 @@
+/Users/apple/AndroidStudioProjects/FFmpegAndroid/app/src/main/cpp/libyuv/CMakeFiles/install/local.dir
+/Users/apple/AndroidStudioProjects/FFmpegAndroid/app/src/main/cpp/libyuv/CMakeFiles/install/strip.dir
+/Users/apple/AndroidStudioProjects/FFmpegAndroid/app/src/main/cpp/libyuv/CMakeFiles/install.dir
+/Users/apple/AndroidStudioProjects/FFmpegAndroid/app/src/main/cpp/libyuv/CMakeFiles/list_install_components.dir
+/Users/apple/AndroidStudioProjects/FFmpegAndroid/app/src/main/cpp/libyuv/CMakeFiles/edit_cache.dir
+/Users/apple/AndroidStudioProjects/FFmpegAndroid/app/src/main/cpp/libyuv/CMakeFiles/convert.dir
+/Users/apple/AndroidStudioProjects/FFmpegAndroid/app/src/main/cpp/libyuv/CMakeFiles/rebuild_cache.dir
+/Users/apple/AndroidStudioProjects/FFmpegAndroid/app/src/main/cpp/libyuv/CMakeFiles/yuv.dir
